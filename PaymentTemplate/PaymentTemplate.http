@@ -1,0 +1,6 @@
+@PaymentTemplate_HostAddress = http://localhost:5049
+
+GET {{PaymentTemplate_HostAddress}}/pay
+Accept: application/json
+
+###
